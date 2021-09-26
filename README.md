@@ -29,7 +29,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]
+![Spotify](https://github-readme-remake.vercel.app/api/spotify)
 <br/>
 ---
 
