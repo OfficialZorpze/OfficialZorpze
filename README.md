@@ -1,6 +1,6 @@
-## Surge's Profile
+## Zorpze's Profile
 
-"they say coding is my speciatly" - Surge
+"they say coding is my speciatly" - Zorpze
 
 ---
 ### Languages and Tools:
