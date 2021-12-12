@@ -2,6 +2,9 @@
 
 "they say coding is my speciatly" - Zorpze
 
+### Discord:
+<img srg "<https://discord.c99.nl/widget/theme-3/860372464038969405.png">
+
 ---
 ### Languages and Tools:
 
