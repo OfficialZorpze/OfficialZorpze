@@ -3,7 +3,7 @@
 "they say coding is my speciatly" - Zorpze
 
 ### Discord:
-<p align="center">
+<p align="left">
   <a href="https://github.com/UE5Zorpze">
     <img src="https://discord.c99.nl/widget/theme-3/860372464038969405.png"/>
      </a>
