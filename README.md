@@ -1,6 +1,6 @@
 ## Zorpze's Profile
 
-"they say coding is my speciatly" - Zorpze
+"Sometimes I forget i'm one of the smartest niggas I know." - Zorpze
 
 ### Discord:
 <p align="left">
