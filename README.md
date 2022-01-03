@@ -23,7 +23,7 @@
 <br />
 ### Softwares:
 
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.discordapp.com/attachments/861416164771758111/927386264553017404/visual_studio.jpg" />
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.discordapp.com/attachments/861416164771758111/927386834760261632/58482afbcef1014c0b5e4a21.png" />
 
 
 <br />
