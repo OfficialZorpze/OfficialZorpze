@@ -35,7 +35,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](spotify-pi-lemon.vercel.app/api/spotify-playing)](https://open.spotify.com/user/Zorpze)
+[![Spotify](novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Zorpze)
 <br/>
 ---
 
