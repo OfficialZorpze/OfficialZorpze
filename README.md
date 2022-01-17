@@ -35,7 +35,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](spotify-surgecheats.vercel.app/api/spotify)](https://open.spotify.com/user/Zorpze)
+[![Spotify](gay-surgecheats.vercel.app/api/spotify)](https://open.spotify.com/user/Zorpze)
 <br/>
 ---
 
