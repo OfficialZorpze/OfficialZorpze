@@ -35,7 +35,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](spotify-wine.vercel.app/api/spotify)](https://open.spotify.com/user/Zorpze)
+[![Spotify](spotify-surgecheats.vercel.app/api/spotify)](https://open.spotify.com/user/Zorpze)
 <br/>
 ---
 
