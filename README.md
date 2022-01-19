@@ -4,7 +4,7 @@
 
 ### Discord:
 <p align="left">
-  <a href="https://github.com/UE5Zorpze">
+  <a href="https://github.com/OfficialZorpze">
     <img src="https://discord.c99.nl/widget/theme-2/860372464038969405.png"/>
      </a>
 </p>
