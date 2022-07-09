@@ -35,8 +35,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Zorpze)
-<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bglzebmrr9avy433723ewp6bo&cover_image=true&theme=natemoo-re&bar_color=302f32&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=bglzebmrr9avy433723ewp6bo&redirect=true)
 ---
 
 [![Surge's github stats](https://github-readme-stats.vercel.app/api?username=OfficialZorpze&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
