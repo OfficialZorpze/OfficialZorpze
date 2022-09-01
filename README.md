@@ -1,6 +1,7 @@
 ## Zorpze's Profile
 
-"Sometimes I forget i'm one of the smartest niggas I know." - Zorpze
+Seasonal developer, Certified in Infortmation Technology and business/law complete applications and self taugh developer.
+Many skillsets, Working in Unreal Engine and exploring the depths of game engines for expanding my development career.
 
 ### Discord:
 <p align="left">
