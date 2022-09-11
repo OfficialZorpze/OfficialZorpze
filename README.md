@@ -23,8 +23,9 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 <br />
 <br />
 ### Softwares:
-
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.discordapp.com/attachments/861416164771758111/927386834760261632/58482afbcef1014c0b5e4a21.png" />
+<img align="left" alt=Visual Studio Code" width="26px" src="https://cdn.discordapp.com/attachments/1017203659861409855/1018364476472426576/pngfind.com-change-icon-png-2129465.png" />
+<img align="left" alt="Sublime Text" width="26px" src="https://cdn.discordapp.com/attachments/1017203659861409855/1018364876126691378/pngegg.png" />
 
 
 <br />
@@ -43,6 +44,7 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/:1016596786296672326)](https://discord.com/users/:1016596786296672326)
 [![Profile Views](https://komarev.com/ghpvc/?username=OfficialZorpze&logo=GitHub&label=Profile%20Views&color=336699&logoColor=white&style=plastic)](https://github.com/OfficialZorpze) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
 ![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2025%20mins-blue)
