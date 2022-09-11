@@ -42,4 +42,4 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 [![Zorpze's github stats](https://github-readme-stats.vercel.app/api?username=OfficialZorpze&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Visits](https://komarev.com/ghpvc/?username=OfficialZorpze&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=plastic)](https://github.com/OfficialZorpze)
+[![Visits](https://komarev.com/ghpvc/?username=OfficialZorpze&logo=GitHub&label=%20visitors&color=336699&logoColor=white&style=plastic)](https://github.com/OfficialZorpze)
