@@ -6,7 +6,7 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 ### Discord:
 <p align="left">
   <a href="https://github.com/OfficialZorpze">
-    <img src="https://discord.c99.nl/widget/theme-4/1016596786296672326.png"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1016596786296672326)](https://discord.com/users/1016596786296672326)
      </a>
 </p>
 
@@ -43,8 +43,7 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 [![Zorpze's github stats](https://github-readme-stats.vercel.app/api?username=OfficialZorpze&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1016596786296672326)](https://discord.com/users/1016596786296672326)
+                                                                                                                                            
 [![Profile Views](https://komarev.com/ghpvc/?username=OfficialZorpze&logo=GitHub&label=Profile%20Views&color=336699&logoColor=white&style=plastic)](https://github.com/OfficialZorpze) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
 ![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2025%20mins-blue)
