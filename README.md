@@ -44,7 +44,7 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1016596786296672326)](https://discord.com/users/:1016596786296672326)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1016596786296672326)](https://discord.com/users/1016596786296672326)
 [![Profile Views](https://komarev.com/ghpvc/?username=OfficialZorpze&logo=GitHub&label=Profile%20Views&color=336699&logoColor=white&style=plastic)](https://github.com/OfficialZorpze) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
 ![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2025%20mins-blue)
