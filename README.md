@@ -45,3 +45,4 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 
 [![Profile Views](https://komarev.com/ghpvc/?username=OfficialZorpze&logo=GitHub&label=Profile%20Views&color=336699&logoColor=white&style=plastic)](https://github.com/OfficialZorpze) 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=minoveaz)
+![Code Time](http://img.shields.io/badge/Code%20Time-734%34hrs%2025%14mins-blue)
