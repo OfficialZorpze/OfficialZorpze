@@ -4,12 +4,8 @@ Seasonal developer, Full stack, Certified in Infortmation Technology and busines
 Many skillsets, currently working in Unreal Engine and exploring the depths of game engines for expanding my development career.
 
 ### Discord:
-<p align="left">
-  <a href="https://github.com/OfficialZorpze">
 [![Discord Presence](https://lanyard.cnrad.dev/api/1016596786296672326)](https://discord.com/users/1016596786296672326)
-     </a>
-</p>
-
+    
 ### Languages and Tools:
 
 
