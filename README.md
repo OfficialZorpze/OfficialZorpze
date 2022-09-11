@@ -6,7 +6,7 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 ### Discord:
 <p align="left">
   <a href="https://github.com/OfficialZorpze">
-    <img src="https://discord.c99.nl/widget/theme-5/1016596786296672326.png"/>
+    <img src="https://discord.c99.nl/widget/theme-3/1016596786296672326.png"/>
      </a>
 </p>
 
