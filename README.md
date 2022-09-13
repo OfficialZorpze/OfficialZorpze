@@ -40,5 +40,5 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 
 ---
                                                                                                                                            
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=OfficialZorpze)](https://github.com/OfficialZorpze) 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=OfficialZorpze)](https://github.com/OfficialZorpze) 
 ![Code Time](https://img.shields.io/badge/Code%20Time-670%20hrs%2023%20mins-blue)
