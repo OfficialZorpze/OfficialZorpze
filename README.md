@@ -39,7 +39,6 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 [![Zorpze's github stats](https://github-readme-stats.vercel.app/api?username=OfficialZorpze&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-                                                                                                                                            
-[![Profile Views](https://komarev.com/ghpvc/?username=OfficialZorpze&logo=GitHub&label=Profile%20Views&color=336699&logoColor=White&color=blue&style=flat)](https://github.com/OfficialZorpze) 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=OfficialZorpze)
+                                                                                                                                           
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=OfficialZorpze)](https://github.com/OfficialZorpze) 
 ![Code Time](https://img.shields.io/badge/Code%20Time-670%20hrs%2023%20mins-blue)
