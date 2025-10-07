@@ -40,4 +40,4 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 
 ---
 [![Visitors](https://komarev.com/ghpvc/?username=OfficialZorpze)](https://github.com/OfficialZorpze)                                                                                                                         
-![Code Time](https://img.shields.io/badge/Code%20Time-4821%20hrs%2031%20mins-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-16326hrs%2031%20mins-blue)
