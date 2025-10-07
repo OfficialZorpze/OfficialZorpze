@@ -4,7 +4,7 @@ Seasonal developer, Full stack, Certified in Infortmation Technology and busines
 Many skillsets, currently working in Unreal Engine and exploring the depths of game engines for expanding my development career.
 
 ### Discord:
-[![Discord Presence](https://api.lanyard.rest/v1/users/1177167897303453770)](https://discord.com/users/1177167897303453770)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1177167897303453770)](https://discord.com/users/1177167897303453770)
     
 ### Languages and Tools:
 
