@@ -1,8 +1,7 @@
 ## Zorpze's Profile
 
 ### About Me: 
-Seasonal developer, Full stack, Certified in Infortmation Technology, Business, And Law, complete high school classes. Self taugh developer;
-Many skillsets, currently working in Unreal Engine and exploring the depths of game engines for expanding my development career.
+Seasonal Full-Stack Developer with certifications in Information Technology, Business, and Law. Completed advanced high school courses. Self-taught developer proficient in multiple skill sets, currently specializing in Unreal Engine while exploring advanced game engine architectures to pursue my career in game development, and reverse engineering.
 
 ### Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1177167897303453770)](https://discord.com/users/1177167897303453770)
