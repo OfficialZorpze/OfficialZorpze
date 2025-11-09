@@ -19,9 +19,9 @@ Many skillsets, currently working in Unreal Engine and exploring the depths of g
 <br />
 <br />
 ### Softwares:
-<img align="left" alt="Visual Studio" width="26px" src="https://media.discordapp.net/attachments/1377928437871677515/1424958642125541426/Visual_Studio_Icon_2022.svg.png?ex=68e5d7a6&is=68e48626&hm=38aff71c4b821052a0450bac8930007a43600f62d52af4001e7004ae813a43f5&=&format=webp&quality=lossless&width=443&height=443" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/1377928437871677515/1424958643274776596/Visual_Studio_Code_1.35_icon.svg.png?ex=68e5d7a7&is=68e48627&hm=a3390ac5d47e324039217feda0829ac5f0a634e8a960900ed7f4d03f7e1fa582&=&format=webp&quality=lossless&width=443&height=443" />
-<img align="left" alt="Sublime Text" width="26px" src="https://media.discordapp.net/attachments/1377928437871677515/1424958642561613915/Sublime_text.png?ex=68e5d7a6&is=68e48626&hm=80b154274d47d9212e501cef3150dbc0215a7b33e16c418c7f195a83f592bb25&=&format=webp&quality=lossless&width=443&height=443" />
+<img align="left" alt="Visual Studio" width="26px" src="https://media.discordapp.net/attachments/1377928437871677515/1424958642125541426/Visual_Studio_Icon_2022.svg.png?ex=691201e6&is=6910b066&hm=1dbe2cde2ebe43da1ba1c236083d0890b3f6dac5cc87264ddd33d7f23101f1a7&=&format=webp&quality=lossless&width=444&height=444" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://media.discordapp.net/attachments/1377928437871677515/1424958643274776596/Visual_Studio_Code_1.35_icon.svg.png?ex=691201e7&is=6910b067&hm=1bbc089ac5c1e59e83c19c1701ee1881a4454d78c5c6325fcf44f030a3cb7daf&=&format=webp&quality=lossless&width=444&height=444" />
+<img align="left" alt="Sublime Text" width="26px" src="https://media.discordapp.net/attachments/1377928437871677515/1424958642561613915/Sublime_text.png?ex=691201e6&is=6910b066&hm=d093e930e49208a069e63162f5c1888571f8a903f79f1877b3121a5f6fec4cb4&=&format=webp&quality=lossless&width=444&height=444" />
 
 
 <br />
