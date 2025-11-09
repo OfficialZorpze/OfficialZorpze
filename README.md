@@ -1,6 +1,7 @@
 ## Zorpze's Profile
 
-Seasonal developer, Full stack, Certified in Infortmation Technology and business/law complete high school classes. Self taugh developer;
+### About Me: 
+Seasonal developer, Full stack, Certified in Infortmation Technology, Business, And Law, complete high school classes. Self taugh developer;
 Many skillsets, currently working in Unreal Engine and exploring the depths of game engines for expanding my development career.
 
 ### Discord:
